@@ -1,1 +1,3 @@
-void
+```cpp
+const void* n = nullptr;
+```
